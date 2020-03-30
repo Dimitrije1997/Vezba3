@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE fakultet SYSTEM "Zadatak6.dtd">
+
+<fakultet>
+
+
+    <student status="studira" indeks="NRT-31/17">
+        <osoba>
+            <ime>Dimitrije</ime>
+            <prezime>Andjelkovic</prezime>
+            <mestoRodjenja>Savski venac, Beograd</mestoRodjenja>
+            <datumRodjenja>08.11.1997.</datumRodjenja>
+        </osoba>
+        <upisi>
+            <semestar broj="1" godina="2017" vrsta="budzet">Prvi</semestar>
+            <semestar broj="3" godina="2018" vrsta="budzet">Treci</semestar>
+            <semestar broj="5" godina="2019" vrsta="budzet">Peti</semestar>
+        </upisi>
+    </student>
+
+    <student status="diplomirao" indeks="NRT-100/14">
+        <osoba>
+            <ime>Nikola</ime>
+            <prezime>Nikolic</prezime>
+            <mestoRodjenja>Savski venac, Beograd</mestoRodjenja>
+            <datumRodjenja>08.11.1994.</datumRodjenja>
+        </osoba>
+        <upisi>
+            <semestar broj="1" godina="2014" vrsta="saf">Prvi</semestar>
+            <semestar broj="3" godina="2015" vrsta="saf">Treci</semestar>
+            <semestar broj="5" godina="2016" vrsta="budzet">Peti</semestar>
+        </upisi>
+    </student>
+
+
+</fakultet>

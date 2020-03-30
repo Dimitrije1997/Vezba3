@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE NEWSPAPER SYSTEM "Zadatak5.dtd">
+
+
+<NEWSPAPER>
+
+    <ARTICLE AUTHOR="Marija Stojanović" EDITOR="Marko Markovic" DATE="30. mart 2020." EDITION="prva">
+        <HEADLINE>Ružna je igra „ko je dao više“</HEADLINE>
+        <BYLINE>
+        Piše: Marija Stojanović; 30. marta 2020. 17.50 Izmenjeno: 17.51
+        </BYLINE>
+        <LEAD>
+        Evropskoj uniji smeta što srpske vlasti, predvođene predsednikom Aleksandrom Vučićem, izriču niz javnih pohvala na račun kineske pomoći našoj državi da se izbori sa korona virusom, dok se znatno manje govori o pomoći i novcu koji u tu svrhu izdvaja EU, konstatuju sagovornici Danasa.
+        </LEAD>
+        <BODY>
+        Prema mišljenju stručnjaka za evropska pitanja i pojedinih predstavnika opozicije, nije slučajan tvit poznatog švedskog diplomate Karla Bilta, u kojem se oštro kritikuje ponašanje Vučića, a odgovor premijerke Ane Brnabić na to može da dodatno udalji Srbiju od Unije.
+
+        Bilt je, podsetimo, konstatovao: „Kada Kina pošalje avion sa pomoći za Srbiju, predsednik Vučić napravi veliku predstavu od toga, ali kada mnogo značajnija pomoć stigne od Evropske unije, nema fanfara ni predsednika na vidiku.“ Brnabić je potom izjavila: „Pretpostavimo da širenje lažnih vesti, da bi poslao snažnu političku poruku, Karl Bilt duguje nedostatku informacija, a ne lošoj nameri. Taj avion je nosio pomoć iz Kine kao i medicinsku opremu koju je Srbija kupila. Naši partneri iz EU platili su transport i mi smo im neizmerno zahvalni.“
+
+        Marko Savković, programski direktor Beogradskog fonda za političku izuzetnost, ocenjuje za Danas da ne misli da je došlo do zabune, već da je „Bilt želeo da pošalje kritički intoniranu poruku i poslao ju je“.
+        </BODY>
+        <NOTES></NOTES>   
+    </ARTICLE>
+
+    <FOOTER>&NEWSPAPER; &PUBLISHER; &COPYRIGHT;</FOOTER>
+
+</NEWSPAPER>

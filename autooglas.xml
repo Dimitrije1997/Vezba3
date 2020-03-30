@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd">
+
+<AutoOglas>
+
+<Automobil>
+    
+        <Proizvodjac>Audi</Proizvodjac>
+        <Model tip="karavan">A4</Model>
+        <Godiste>2009</Godiste>
+        <Farba tip="metalik">
+            <Boja>Bela</Boja>
+        </Farba>
+        <Zapremina_motora jedinica="ccm">1986</Zapremina_motora>
+        <Transmisija tip="manuelni">
+            <Broj_brzina>6</Broj_brzina>
+        </Transmisija>
+        <Gorivo tng="ne">Dizel</Gorivo>
+        <Cena valuta="eur">6900</Cena>
+        <Kontakt_prodavca>D&amp;B BOSS, 0611847148</Kontakt_prodavca>
+
+</Automobil>
+
+<Automobil>
+
+        <Proizvodjac>Citroen</Proizvodjac>
+        <Model tip="hecbek">C3</Model>
+        <Godiste>2020</Godiste>
+        <Farba tip="akril">
+            <Boja>Belo-crvena</Boja>
+        </Farba>
+        <Zapremina_motora jedinica="ccm">1199</Zapremina_motora>
+        <Transmisija tip="auto">
+            <Broj_brzina>5</Broj_brzina>
+        </Transmisija>
+        <Gorivo tng="da">Benzin</Gorivo>
+        <Cena valuta="eur">12100</Cena>
+        <Kontakt_prodavca>Citroen Centar BOBAN, 0112928501</Kontakt_prodavca>
+
+</Automobil>
+
+</AutoOglas>

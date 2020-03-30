@@ -1,0 +1,22 @@
+<!DOCTYPE NEWSPAPER
+[
+
+    <!ELEMENT NEWSPAPER (ARTICLE+, FOOTER)>
+    <!ELEMENT ARTICLE (HEADLINE, BYLINE, LEAD, BODY, NOTES)>
+    <!ELEMENT HEADLINE (#PCDATA)>
+    <!ELEMENT BYLINE (#PCDATA)>
+    <!ELEMENT LEAD (#PCDATA)>
+    <!ELEMENT BODY (#PCDATA)>
+    <!ELEMENT NOTES (#PCDATA)>
+    <!ELEMENT FOOTER (#PCDATA)>
+
+    <!ATTLIST ARTICLE AUTHOR CDATA #REQUIRED
+                      EDITOR CDATA #IMPLIED
+                      DATE   CDATA #IMPLIED
+                      EDITION CDATA #IMPLIED >
+
+    <!ENTITY NEWSPAPER "Danas">
+    <!ENTITY PUBLISHER "DAN GRAF d.o.o.">
+    <!ENTITY COPYRIGHT "Copyright ©1995 - 2017, dnevni list Danas, Alekse Nenadovića 19-23, Beograd">
+    
+]>

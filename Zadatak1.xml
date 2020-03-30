@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MojiPodaci>
+
+    <PunoIme>
+        <Ime>Dimitrije</Ime>
+        <Prezime>Andjelkovic</Prezime>
+    </PunoIme>
+
+    <DatumRodjenja>
+        <Dan>8</Dan>
+        <Mesec>11</Mesec>
+        <Godina>1997</Godina>   
+    </DatumRodjenja>
+
+    <Adresa>
+        <Ulica>Marka Simovica 15</Ulica>
+        <Naselje>Rojkovac</Naselje>
+        <Grad>Beograd</Grad>
+        <Drzava>Srbija</Drzava>
+        <Ptt>11500</Ptt>
+    </Adresa>
+
+</MojiPodaci>
